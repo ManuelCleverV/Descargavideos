@@ -1,7 +1,7 @@
 <?php
 
 if(!defined('DOMINIO'))
-	define('DOMINIO', 'www.descargavideos.tv');
+	define('DOMINIO', 'descargavideosmio.herokuapp.com');
 
 if(!defined('BOOKMARKLET')) {
 	define('BOOKMARKLET',
