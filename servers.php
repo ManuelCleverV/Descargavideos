@@ -3,7 +3,7 @@
 
 
 
-$SERVIDOR='http://www.descargavideos.tv/';
+$SERVIDOR='https://descargavideosmio.herokuapp.com/';
 
 if(!isset($server_js_index)){
 	intentaImprimirYAcabar();
